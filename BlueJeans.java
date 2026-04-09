@@ -1,0 +1,15 @@
+class BlueJeans {
+    public static void main(String[] args) {
+        int waistSize = 32;
+        float price = 1500.00f;
+        long shopContact = 7766554433L;
+        double averageUserRating = 4.2;
+
+        System.out.println("Waist Size: " + waistSize);
+        System.out.println("Contact Shop: " + shopContact);
+        System.out.println("Rating: " + averageUserRating + "/5.0"); 
+		System.out.println("price: productprice");
+		
+		}
+}
+		

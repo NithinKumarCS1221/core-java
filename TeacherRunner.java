@@ -1,0 +1,5 @@
+class TeacherRunner {
+    public static void main(String[] args) {
+        System.out.println("Name: " + Teacher.name);
+}
+}
